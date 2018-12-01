@@ -1,0 +1,16 @@
+<h3>
+ Good Luck
+ <div id="counter"></div>
+</h3>
+
+<script>
+function count(){
+  var elem = document.getElementById("counter")
+  var i = 0;
+  setInterval(()=>{
+  i++;
+  elem.innerHTML = "Megy az idõ;) látod? " + i
+  },1000);
+}
+count()
+</script>

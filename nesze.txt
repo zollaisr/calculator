@@ -1,5 +1,5 @@
 <h3>
- Good Luck
+ Good Luckq
  <div id="counter"></div>
 </h3>
 
